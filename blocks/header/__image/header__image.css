@@ -1,4 +1,6 @@
 .header__image{
-  width: 400px;
+  width: 385px;
+  height: 380px;
   padding-left: 300px;
+  object-fit: cover;
 }
