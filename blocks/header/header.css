@@ -1,7 +1,22 @@
-.top{
-  display: flex;
-  justify-content: space-between;
-}
+
 .header{
   height: 690px;
+}
+
+@media screen and (max-width: 1069px) {
+  .header {
+      max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+      max-width: 520px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .header {
+      max-width: 320px;
+  }
 }

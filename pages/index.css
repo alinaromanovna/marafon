@@ -3,12 +3,14 @@
 
 @import url('../blocks/body/body.css');
 @import url('../blocks/header/header.css');
-@import url('../blocks/header/__container/header__container.css');
+@import url('../blocks/header/__container/header__container.css'); 
+@import url('../blocks/header/__nav/header__nav.css'); 
 @import url('../blocks/header/__image/header__image.css');
 @import url('../blocks/header/__text/header__text.css');
 @import url('../blocks/header-menu/header-menu.css');
 @import url('../blocks/header-menu/__link/header-menu__link.css');
 @import url('../blocks/header/__subtitle/header__subtitle.css');
+@import url('../blocks/header/__title/header__title.css');
 
 @import url('../blocks/link/link.css');
 
@@ -18,6 +20,7 @@
 @import url('../blocks/grid-places/__items/grid-places__items.css');
 @import url('../blocks/grid-places/__item/grid-places__item.css');
 @import url('../blocks/grid-places/__title/grid-places__title.css');
+@import url('../blocks/grid-places/__paragraph/grid-places__paragraph.css');
 
 
 @import url('../blocks/travels/travels.css');
