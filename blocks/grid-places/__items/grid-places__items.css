@@ -1,4 +1,15 @@
-.grid-places__items{
+.grid-places__items {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+}
+
+@media (max-width: 1205px) {
+}
+
+@media (max-width: 768px) {
+  .grid-places__items {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 320px) {
 }
