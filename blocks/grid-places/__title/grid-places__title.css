@@ -1,4 +1,9 @@
-.grid-places__title{
+.grid-places__title {
   /* margin-bottom: 100px; */
   flex: 1 0 auto;
+  /* font-family: Inter; */
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 45px;
 }
