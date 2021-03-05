@@ -1,0 +1,9 @@
+.direction__input-textarea {
+    min-height: 110px;
+    padding-left: 15px;
+    padding-top: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 20px 0 20px;
+    background-color: #fffafa;
+}

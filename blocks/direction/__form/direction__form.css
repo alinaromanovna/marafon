@@ -1,0 +1,7 @@
+.direction__form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid green;
+    margin-top: 90px;
+    align-items: flex-end;
+}

@@ -19,3 +19,25 @@
 @import url('../blocks/grid-places/__item/grid-places__item.css');
 @import url('../blocks/grid-places/__title/grid-places__title.css');
 
+
+@import url('../blocks/travels/travels.css');
+@import url('../blocks/travels/__subtitle/travels__subtitle.css');
+@import url('../blocks/travels/__title/travels__title.css');
+@import url('../blocks/travels/__list/travels__list.css');
+@import url('../blocks/travels/__author/travels__author.css');
+@import url('../blocks/travels/__phrase/travels__phrase.css');
+
+@import url('../blocks/direction/direction.css');
+@import url('../blocks/direction/__container-form/direction__container-form.css');
+@import url('../blocks/direction/__title/direction__title.css');
+@import url('../blocks/direction/__form/direction__form.css');
+@import url('../blocks/direction/__input-text/direction__input-text.css');
+@import url('../blocks/direction/__input-textarea/direction__input-textarea.css');
+@import url('../blocks/direction/__button/direction__button.css');
+@import url('../blocks/direction/__image/direction__image.css');
+
+@import url('../blocks/video/video.css');
+@import url('../blocks/video/__hadn-dadn/video__hadn-dadn.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
