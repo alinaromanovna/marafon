@@ -1,0 +1,8 @@
+.direction_input-text {
+    padding-left: 15px;
+    height: 30px; 
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #fffafa;
+    vertical-align: middle;
+}
