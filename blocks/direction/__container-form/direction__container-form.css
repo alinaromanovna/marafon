@@ -1,6 +1,7 @@
 .direction__container-form {
-    max-width: 380px;
-    border: 1px solid red;
     height: auto;
-    margin: 150px 0 0 75px;
+    padding: 144px 0 0 72px;
+    font-weight: bold;
+    line-height: 1.2;
+    word-spacing: 3px;
 }
