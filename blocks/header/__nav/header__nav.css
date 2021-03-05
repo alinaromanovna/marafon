@@ -1,4 +1,6 @@
 .header__nav{
   display: flex;
   justify-content: space-between;
+  font-weight: bold;
+  font-style: normal;
 }
