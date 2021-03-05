@@ -4,15 +4,14 @@
 }
 
 @media screen and (max-width: 1069px) {
-  .header {
-      max-width: 768px;
-  }
+  
 }
 
 @media screen and (max-width: 767px) {
-  .header {
-      max-width: 520px;
+  .header{
+    height: 590px;
   }
+  
 }
 
 @media screen and (max-width: 520px) {
