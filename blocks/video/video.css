@@ -1,5 +1,6 @@
 .video {
     height: auto;
     width: 100%;
+    position: relative;
     border: 1px solid green;
 }
